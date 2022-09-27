@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/samplecapstonesystem/static/css/main.440e5633.css",
-    "main.js": "/samplecapstonesystem/static/js/main.3851926b.js",
-    "static/media/LOGONEW.png": "/samplecapstonesystem/static/media/LOGONEW.a2c0bced0c559519b485.png",
-    "static/media/CMRS.png": "/samplecapstonesystem/static/media/CMRS.fef444fd341a1000ab06.png",
-    "static/media/LOGO.jpg": "/samplecapstonesystem/static/media/LOGO.ff0be9d489dcd0ee7efd.jpg",
-    "index.html": "/samplecapstonesystem/index.html",
-    "main.440e5633.css.map": "/samplecapstonesystem/static/css/main.440e5633.css.map",
-    "main.3851926b.js.map": "/samplecapstonesystem/static/js/main.3851926b.js.map"
+    "main.css": "/react-gh-pages/static/css/main.440e5633.css",
+    "main.js": "/react-gh-pages/static/js/main.3d04e526.js",
+    "static/media/LOGONEW.png": "/react-gh-pages/static/media/LOGONEW.a2c0bced0c559519b485.png",
+    "static/media/CMRS.png": "/react-gh-pages/static/media/CMRS.fef444fd341a1000ab06.png",
+    "static/media/LOGO.jpg": "/react-gh-pages/static/media/LOGO.ff0be9d489dcd0ee7efd.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.440e5633.css.map": "/react-gh-pages/static/css/main.440e5633.css.map",
+    "main.3d04e526.js.map": "/react-gh-pages/static/js/main.3d04e526.js.map"
   },
   "entrypoints": [
     "static/css/main.440e5633.css",
-    "static/js/main.3851926b.js"
+    "static/js/main.3d04e526.js"
   ]
 }
